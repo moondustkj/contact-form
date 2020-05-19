@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/contact-form/static/css/main.c2c8a515.chunk.css",
+    "main.js": "/contact-form/static/js/main.eb8f24bd.chunk.js",
+    "main.js.map": "/contact-form/static/js/main.eb8f24bd.chunk.js.map",
+    "runtime~main.js": "/contact-form/static/js/runtime~main.2f609b49.js",
+    "runtime~main.js.map": "/contact-form/static/js/runtime~main.2f609b49.js.map",
+    "static/css/2.28eda669.chunk.css": "/contact-form/static/css/2.28eda669.chunk.css",
+    "static/js/2.2c25c2fd.chunk.js": "/contact-form/static/js/2.2c25c2fd.chunk.js",
+    "static/js/2.2c25c2fd.chunk.js.map": "/contact-form/static/js/2.2c25c2fd.chunk.js.map",
+    "index.html": "/contact-form/index.html",
+    "precache-manifest.a1c54b376d59c577a757e8f23494b0cf.js": "/contact-form/precache-manifest.a1c54b376d59c577a757e8f23494b0cf.js",
+    "service-worker.js": "/contact-form/service-worker.js",
+    "static/css/2.28eda669.chunk.css.map": "/contact-form/static/css/2.28eda669.chunk.css.map",
+    "static/css/main.c2c8a515.chunk.css.map": "/contact-form/static/css/main.c2c8a515.chunk.css.map",
+    "static/media/newyorker cover.jpg": "/contact-form/static/media/newyorker cover.4ab8de7a.jpg"
+  }
+}
